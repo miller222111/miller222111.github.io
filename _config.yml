@@ -7,7 +7,7 @@ email: katt@fatehold.com
 description: "Katt Kennedy's personal portfolio.  They specialize in data science, UX research, data visualization, storytelling, design, and being awesome.  Generalists beat specialists for utility."
 
 
-# Team names, titles and social links
+# Team section, now repurposed for media grouping
 people:
 - name: Writing
   pic: 1
