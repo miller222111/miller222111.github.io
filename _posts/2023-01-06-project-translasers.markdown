@@ -2,8 +2,8 @@
 title: Translasers
 subtitle: UX Research
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 3
+date: 2023-01-06
 img: translasers.png
 thumbnail: translasers-thumbnail.png
 alt: image-alt
