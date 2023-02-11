@@ -11,36 +11,36 @@ description: "Katt Kennedy's personal portfolio.  They specialize in data scienc
 people:
 - name: Emerging Leaders Mentorship
   pic: 1
-  position: Mentoring the Next Generation of Leaders
+  position: Non-profit Organization <br> Mentoring the Next Generation of Leaders
   social:
-    - title: medium
-      url: #
-    - title: slideshare
-      url: #
-    - title: leanpub
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/company/emergingleaderspdx/
+    - title: instagram
+      url: https://www.instagram.com/emergingleaderspdx/
+    - title: twitter
+      url: https://twitter.com/EmergingLdrsPDX
 
 - name: Me!
   pic: 2
-  position: Essays, Talks, and Code Quick-starts
+  position: I'm happy to help! <br> Essays, Talks, and Code Quick-starts
   social:
     - title: medium
-      url: #
+      url: https://octokatt.medium.com/
     - title: github
-      url: #
+      url: https://github.com/octokatt
     - title: slideshare
-      url: #
+      url: https://slideshare.net
 
 - name: Games to Gather
   pic: 3
-  position: Resources for Game Designers
+  position: Non-profit Organization <br> Resources for Game Designers
   social:
-    - title: dribbble
-      url: #
-    - title: instagram
-      url: #
-    - title: etsy
-      url: #
+    - title: facebook
+      url: https://www.facebook.com/gamestogatherpdx/
+    - title: twitter
+      url: https://twitter.com/gamestogather
+    - title: meetup
+      url: https://www.meetup.com/gamestogather
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
