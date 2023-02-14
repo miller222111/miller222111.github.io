@@ -10,6 +10,7 @@ alt: image-alt
 project-date: 2017
 client: Nautilus
 category: Data Science
+portfolio: portfolio/Bowflex.pdf
 description: While working at Nautilus, the HVT was launched with fanfare... to very little sales impact.  We needed post-launch research, fast, to find out where the disconnect was and what to do next.
 
 ---

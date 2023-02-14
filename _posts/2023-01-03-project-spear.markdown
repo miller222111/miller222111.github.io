@@ -10,6 +10,7 @@ alt: image-alt
 project-date: 2016
 client: Spear Education
 category: UX Research
+portfolio: portfolio/Spear_Education.pdf
 description: Spear Education was facing a churn crisis.  While they had captured a good deal of the market, their subscription retention rate was ~40%.  My job as market analyst was to discover why and propose solutions.
 
 ---
