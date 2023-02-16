@@ -1,7 +1,8 @@
 # Color settings (hex-codes without the leading hash-tag)
+# Primary is accent color
 color:
-  primary: fed136
-  secondary: fec503   
+  primary: B95EF8 #green84E880 #purple-a134f6 #ogyellowfed136
+  secondary: b14ce5 #green84D860 #purple-a13ce5 #ogyellowfec503   
   secondary-dark: 333
   muted: 777
 
