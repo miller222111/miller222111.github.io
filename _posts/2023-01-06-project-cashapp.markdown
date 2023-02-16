@@ -3,7 +3,7 @@ title: Cash App Data
 subtitle: Operations Design
 layout: default
 modal-id: 2
-date: 2023-01-04
+date: 2023-01-06
 img: cash-app.jpeg
 thumbnail: cash-app-thumbnail.jpeg
 alt: image-alt

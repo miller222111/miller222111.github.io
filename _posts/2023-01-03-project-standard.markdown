@@ -3,7 +3,7 @@ title: The Standard
 subtitle: Operations Design
 layout: default
 modal-id: 5
-date: 2023-01-01
+date: 2023-01-03
 img: standard.png
 thumbnail: standard-thumbnail.png
 alt: image-alt
