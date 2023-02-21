@@ -1,9 +1,9 @@
 ---
-title: Translasers
+title: Green Field Market Research
 subtitle: UX Research
 layout: default
-modal-id: 3
-date: 2023-01-04
+modal-id: 6
+date: 2023-01-01
 img: translasers.png
 thumbnail: translasers-thumbnail.png
 alt: image-alt

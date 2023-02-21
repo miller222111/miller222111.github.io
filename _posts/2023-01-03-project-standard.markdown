@@ -1,6 +1,6 @@
 ---
-title: The Standard
-subtitle: Operations Design
+title: User Workflow Kaizen
+subtitle: UX Research
 layout: default
 modal-id: 5
 date: 2023-01-03

@@ -1,6 +1,6 @@
 ---
-title: Cash App Data
-subtitle: Operations Design
+title: Building Consensus with Data
+subtitle: Data Science
 layout: default
 modal-id: 2
 date: 2023-01-06

@@ -1,9 +1,9 @@
 ---
-title: Bowflex HVT
+title: Post-launch Research
 subtitle: Data Science
 layout: default
 modal-id: 4
-date: 2023-01-02
+date: 2023-01-04
 img: hvt.jpg
 thumbnail: hvt-thumbnail.jpeg
 alt: image-alt

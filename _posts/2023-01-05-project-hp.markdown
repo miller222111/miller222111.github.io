@@ -1,5 +1,5 @@
 ---
-title: HP - 3DaaS
+title: Early Product Exploration
 subtitle: Data Science
 layout: default
 modal-id: 1

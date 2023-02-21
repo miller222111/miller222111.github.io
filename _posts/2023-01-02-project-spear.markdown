@@ -1,9 +1,9 @@
 ---
-title: Spear Education
+title: Investigating Customer Churn
 subtitle: UX Research
 layout: default
-modal-id: 6
-date: 2023-01-01
+modal-id: 2
+date: 2023-01-02
 img: spear.png
 thumbnail: spear-thumbnail.png
 alt: image-alt
