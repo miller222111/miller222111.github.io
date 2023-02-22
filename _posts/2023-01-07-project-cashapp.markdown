@@ -2,7 +2,7 @@
 title: Building Consensus with Data
 subtitle: Data Science
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2023-01-06
 img: cash-app.jpeg
 thumbnail: cash-app-thumbnail.jpeg

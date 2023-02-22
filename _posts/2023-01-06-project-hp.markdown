@@ -2,8 +2,8 @@
 title: Early Product Exploration
 subtitle: Data Science
 layout: default
-modal-id: 1
-date: 2023-01-05
+modal-id: 2
+date: 2023-01-06
 img: hp.jpg
 thumbnail: hp-thumbnail.jpeg
 alt: image-alt

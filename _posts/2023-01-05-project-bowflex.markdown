@@ -2,8 +2,8 @@
 title: Post-launch Research
 subtitle: Data Science
 layout: default
-modal-id: 4
-date: 2023-01-04
+modal-id: 9
+date: 2023-01-02
 img: hvt.jpg
 thumbnail: hvt-thumbnail.jpeg
 alt: image-alt
