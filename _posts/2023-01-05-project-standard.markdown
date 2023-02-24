@@ -3,7 +3,7 @@ title: User Workflow Kaizen
 subtitle: UX Research
 layout: default
 modal-id: 5
-date: 2023-01-03
+date: 2023-01-05
 img: standard.png
 thumbnail: standard-thumbnail.png
 alt: image-alt

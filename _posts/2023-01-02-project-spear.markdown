@@ -3,7 +3,7 @@ title: Investigating Customer Churn
 subtitle: UX Research
 layout: default
 modal-id: 5
-date: 2023-01-03
+date: 2023-01-02
 img: spear.png
 thumbnail: spear-thumbnail.png
 alt: image-alt
